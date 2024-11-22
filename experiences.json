@@ -1,0 +1,39 @@
+[
+  {
+    "companyName": "Select Medical Corporate",
+    "address": "Mechanicsburg, PA, US",
+    "timeline": "May 2024 - Aug 2024",
+    "position": "Software Developer Intern",
+    "descriptions": [
+      "Worked on healthcare application and patient management systems.",
+      "Assisted in building user interface and integrating client-side with server-side for medical software.",
+      "Intergrate third-party API for functionalities like billing, insurance claims",
+      "Documented for software development processes, APIs, and user manuals."
+    ],
+    "timelineDotIcon": "CodeIcon"
+  },
+  {
+    "companyName": "Maharishi International University",
+    "address": "Fairfield, Iowa, US",
+    "timeline": "Aug 2022 - Dec 2023",
+    "position": "Student",
+    "descriptions": [
+      "Received in-depth hands-on training in the latest technologies taught by industry-experienced professors, helping to be a proficient Full Stack Developer."
+    ],
+    "timelineDotIcon": "SchoolIcon"
+  },
+  {
+    "companyName": "i3 International Inc.",
+    "address": "Ho Chi Minh city, Vietnam",
+    "timeline": "Jun 2011 - Jan 2016",
+    "position": "Software Engineer in Test",
+    "descriptions": [
+      "Involved analyzing and clarifying new requirements, features with Business Analyst and Developer Team on Security DVRs system which comes with features like motion detection, remote viewing and long-term storage of footage.",
+      "Developed and documented Test Designs, Test Plans, Test Cases for each functionality.",
+      "Performed functional and integration testing to validate and ensure the DVR and its integrated software work according to the requirements and specifications seamlessly.",
+      "Performed performance testing under various conditions, particularly when dealing with large data volumes or multiple camera feeds.",
+      "Analyzed test results and provided feedback to improve product quality."
+    ],
+    "timelineDotIcon": "BugReportIcon"
+  }
+]

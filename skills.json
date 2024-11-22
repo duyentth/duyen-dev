@@ -1,0 +1,91 @@
+[
+  {
+    "obj": "HTMLIcon",
+    "name": "HTML"
+  },
+  {
+    "obj": "CSSIcon",
+    "name": "CSS"
+  },
+  {
+    "obj": "TailWindCSSIcon",
+    "name": "Tailwind CSS"
+  },
+  {
+    "obj": "AntDesignIcon",
+    "name": "Ant Design"
+  },
+  {
+    "obj": "Bootstrap",
+    "name": "Bootstrap"
+  },
+  {
+    "obj": "JQuery",
+    "name": "jQuery"
+  },
+  {
+    "obj": "JavaScriptIcon",
+    "name": "javascript"
+  },
+  {
+    "obj": "TypeScriptIcon",
+    "name": "Typescript"
+  },
+  {
+    "obj": "ReactIcon",
+    "name": "React JS"
+  },
+  {
+    "obj": "NextjsIcon",
+    "name": "Next.js"
+  },
+  {
+    "obj": "AngularIcon",
+    "name": "Angular"
+  },
+  {
+    "obj": "WebPackIcon",
+    "name": "Webpack"
+  },
+  {
+    "obj": "NodeIcon",
+    "name": "Node JS"
+  },
+  {
+    "obj": "ExpressIcon",
+    "name": "Express JS"
+  },
+  {
+    "obj": "RESTIcon",
+    "name": "RESTful API"
+  },
+  {
+    "obj": "GraphQLIcon",
+    "name": "GraphQL"
+  },
+
+  {
+    "obj": "MongoIcon",
+    "name": "Mongo DB"
+  },
+  {
+    "obj": "SQLiteIcon",
+    "name": "SQLite DB"
+  },
+  {
+    "obj": "AWSIcon",
+    "name": "Amazon Web Services"
+  },
+  {
+    "obj": "GitIcon",
+    "name": "Git"
+  },
+  {
+    "obj": "DockerIcon",
+    "name": "Docker"
+  },
+  {
+    "obj": "KubernetesIcon",
+    "name": "Kubernetes"
+  }
+]

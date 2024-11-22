@@ -1,0 +1,42 @@
+@import "@fontsource/roboto/300.css";
+@import "@fontsource/roboto/400.css";
+@import "@fontsource/roboto/500.css";
+@import "@fontsource/roboto/700.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  #hamburgerBtn {
+    @apply md:hidden relative transition duration-200 w-6 h-6 z-40 focus:outline-none;
+  }
+  .hamburger-top,
+  .hamburger-middle,
+  .hamburger-bottom {
+    @apply absolute top-0 left-0 right-0 w-6 h-0.5 bg-black dark:bg-white;
+  }
+  .hamburger-middle {
+    @apply translate-y-2;
+  }
+  .hamburger-bottom {
+    @apply translate-y-4;
+  }
+  .open {
+    @apply rotate-90;
+  }
+  .open .hamburger-top {
+    @apply rotate-45 translate-x-0 translate-y-3;
+  }
+  .open .hamburger-middle {
+    @apply hidden;
+  }
+  .open .hamburger-bottom {
+    @apply -rotate-45 translate-x-0 translate-y-3;
+  }
+
+  ul,
+  ol {
+    list-style: revert;
+  }
+}

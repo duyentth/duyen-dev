@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Property Pulse (MERN Stack-SSR Web Application)",
+    "technologies": [
+      "HTML",
+      "Tailwind CSS",
+      "Next JS",
+      "Node JS",
+      "Express JS",
+      "MongoDB",
+      "Mongoose",
+      "Cloudinary",
+      "Next Auth",
+      "React Icons",
+      "React Map GL",
+      "React Geocode",
+      "React Share",
+      "Mapbox",
+      "Photoswipe"
+    ],
+    "features": [
+      "Fully Responsive Website",
+      "Uploading and accessing files to/from Cloudinary",
+      "User authentication with Google & Next Auth",
+      "User profile with user listings",
+      "Property Listing CRUD, seaching and bookmarking",
+      "Photoswipe image gallery",
+      "Property sharing to social media",
+      "Internal messages with 'unread' notifications"
+    ],
+    "image": "PropertyPulse",
+    "liveDemoLink": "https://property-pulse-hazel-eight.vercel.app/",
+    "codeLink": "https://github.com/duyentth/Property_Rental"
+  },
+  {
+    "id": 5,
+    "name": "Expense Tracker",
+    "technologies": [
+      "HTML",
+      "Tailwind CSS",
+      "JavaScript",
+      "React ChartJS",
+      "NodeJS",
+      "ExpressJS",
+      "PassportJS",
+      "MongoDB",
+      "GraphQL",
+      "Apollo GraphQL"      
+    ],
+    "features": [
+      "Global state management with Apollo Client",
+      "Authentication with Passport.js and MongoDB session store",
+      "Querying and mutating data in GraphQL",
+      "Handling error for both frontend and backend",
+      "Displaying data with React ChartJS"
+    ],
+    "image": "ExpenseTracker",
+    "liveDemoLink": "https://expense-tracker-yut1.onrender.com",
+    "codeLink": "https://github.com/duyentth/expense-tracker"
+  },
+  {
+    "id": 2,
+    "name": "E-Commerce MicroServices",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "Python",
+      "Go",
+      "MongoDB",
+      "Node Js",
+      "MySQL",
+      "Postgresql",
+      "Docker"
+    ],
+    "features": [
+      "7 microservices built with different languages and frameworks.",
+      "Containerized and Orchestrated by using Docker."
+    ],
+    "image": "Microservices",
+    "liveDemoLink": "https://github.com/duyentth/containerized_Ecommerce_Microservices",
+    "codeLink": "https://github.com/duyentth/containerized_Ecommerce_Microservices"
+  },
+  {
+    "id": 3,
+    "name": "Refurbished Good Marketplace (MERN Stack-CSR Web Application",
+    "technologies": [
+      "HTML",
+      "Tailwind CSS",
+      "Ant Design",
+      "React JS",
+      "Node JS",
+      "Express JS",
+      "Multer",
+      "Mongoose",
+      "Cloudinary",
+      "Stripe"
+    ],
+    "features": [
+      "Fully Responsive Website",
+      "Upload and access files to/from Cloudinary",
+      "Manage all products, users, bids with CRUD",
+      "Secure payment with Stripe",
+      "Send notificaton for each change of status on products, users, bids",
+      "Secure user signing up and logging in with jsonwebtoken(JWT)"
+    ],
+    "image": "RefurbishedGoodImg",
+    "liveDemoLink": "https://refurbished-goods-marketplace-app.onrender.com/",
+    "codeLink": "https://github.com/duyentth/RefurbishedGoodsMarketForDeploy"
+  },
+
+  {
+    "id": 4,
+    "name": "6 Responsive Webs",
+    "technologies": ["HTML", "Tailwind CSS", "JavaScript"],
+    "features": [
+      "Fully Responsive Website",
+      "Flex Box Model",
+      "Transform behaviour",
+      "Light/Dark Mode"
+    ],
+    "image": "ResponsiveWebs",
+    "liveDemoLink": "https://loopstudios-ytbl.onrender.com/",
+    "codeLink": "https://github.com/duyentth/Tailwind-CSS-Projects/blob/main/README.md"
+  }
+]
