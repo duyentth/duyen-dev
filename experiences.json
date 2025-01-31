@@ -12,7 +12,7 @@
   {
     "companyName": "i3 International Inc.",
     "address": "Ho Chi Minh city, Vietnam",
-    "timeline": "Jun 2010 - Jan 2016",
+    "timeline": "Jun 2013 - Jan 2016",
     "position": "Software Engineer in Test",
     "descriptions": [
       "Involved analyzing and clarifying new requirements, features with Business Analyst and Developer Team on Security DVRs system which comes with features like motion detection, remote viewing and long-term storage of footage.",
@@ -22,5 +22,16 @@
       "Analyzed test results and provided feedback to improve product quality."
     ],
     "timelineDotIcon": "BugReportIcon"
+  },
+  {
+    "companyName": "Doc Lap Middle School",
+    "address": "Thich Quang Duc, Ho Chi Minh, Vietnam",
+    "timeline": "Sep 2007 - Jan 2013",
+    "position": "Math Teacher",
+    "descriptions": [
+      "Helped students build a strong foundation in mathematical concepts, critical thinking, and problem-solving skills.",
+      "Created engaging lesson plans, assessed student progress, and adapted instruction to meet diverse learning needs."
+    ],
+    "timelineDotIcon": "SchoolIcon"
   }
 ]
